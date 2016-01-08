@@ -1,0 +1,267 @@
+[
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/api",
+    "name": "area/api",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/builder",
+    "name": "area/builder",
+    "color": "0052cc"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/cli",
+    "name": "area/cli",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/kernel",
+    "name": "area/kernel",
+    "color": "E3ACEF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/logging",
+    "name": "area/logging",
+    "color": "207de5"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/runtime",
+    "name": "area/runtime",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/security/apparmor",
+    "name": "area/security/apparmor",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/security/seccomp",
+    "name": "area/security/seccomp",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/security/selinux",
+    "name": "area/security/selinux",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage",
+    "name": "area/storage",
+    "color": "FBCA04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage/aufs",
+    "name": "area/storage/aufs",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage/btrfs",
+    "name": "area/storage/btrfs",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage/devicemapper",
+    "name": "area/storage/devicemapper",
+    "color": "FBCA04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage/overlay",
+    "name": "area/storage/overlay",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/area/storage/zfs",
+    "name": "area/storage/zfs",
+    "color": "fbca04"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/dco/no",
+    "name": "dco/no",
+    "color": "f7c6c7"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/exp/beginner",
+    "name": "exp/beginner",
+    "color": "A8DBA8"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/exp/expert",
+    "name": "exp/expert",
+    "color": "3B8686"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/exp/intermediate",
+    "name": "exp/intermediate",
+    "color": "79BD9A"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/distribution",
+    "name": "group/distribution",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/freebsd",
+    "name": "group/freebsd",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/networking",
+    "name": "group/networking",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/security",
+    "name": "group/security",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/trust",
+    "name": "group/trust",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/group/windows",
+    "name": "group/windows",
+    "color": "F6FBFF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/api",
+    "name": "impact/api",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/changelog",
+    "name": "impact/changelog",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/cli",
+    "name": "impact/cli",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/deprecation",
+    "name": "impact/deprecation",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/distribution",
+    "name": "impact/distribution",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/impact/dockerfile",
+    "name": "impact/dockerfile",
+    "color": "bfe5bf"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/bug",
+    "name": "kind/bug",
+    "color": "FF8C94"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/docs",
+    "name": "kind/docs",
+    "color": "A8E6CE"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/enhancement",
+    "name": "kind/enhancement",
+    "color": "E8CAAF"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/experimental",
+    "name": "kind/experimental",
+    "color": "bfdadc"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/feature",
+    "name": "kind/feature",
+    "color": "AAB3AB"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/flakytest",
+    "name": "kind/flakytest",
+    "color": "EF7409"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/kind/question",
+    "name": "kind/question",
+    "color": "EBEFC9"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/priority/P0",
+    "name": "priority/P0",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/priority/P1",
+    "name": "priority/P1",
+    "color": "eb6420"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/priority/P2",
+    "name": "priority/P2",
+    "color": "fad8c7"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/priority/P3",
+    "name": "priority/P3",
+    "color": "fef2c0"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/roadmap",
+    "name": "roadmap",
+    "color": "eb6420"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/0-triage",
+    "name": "status/0-triage",
+    "color": "EEEEEE"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/1-design-review",
+    "name": "status/1-design-review",
+    "color": "fef2c0"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/2-code-review",
+    "name": "status/2-code-review",
+    "color": "fad8c7"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/3-docs-review",
+    "name": "status/3-docs-review",
+    "color": "c7def8"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/4-merge",
+    "name": "status/4-merge",
+    "color": "d4c5f9"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/5-cherry-pick",
+    "name": "status/5-cherry-pick",
+    "color": "5319e7"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/claimed",
+    "name": "status/claimed",
+    "color": "fef2c0"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/more-info-needed",
+    "name": "status/more-info-needed",
+    "color": "C6A49A"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/status/needs-attention",
+    "name": "status/needs-attention",
+    "color": "e11d21"
+  },
+  {
+    "url": "https://api.github.com/repos/docker/docker/labels/system/systemd",
+    "name": "system/systemd",
+    "color": "fbca04"
+  }
+]
