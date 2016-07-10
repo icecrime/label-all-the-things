@@ -51,7 +51,7 @@ func doCreateCommand(c *cli.Context) {
 
 func getGitHubToken(c *cli.Context) string {
 	if v := c.GlobalString("token"); v != "" {
-		return c.GlobalString(v)
+		return v
 	}
 
 	if v := c.GlobalString("token-file"); v != "" {
