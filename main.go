@@ -1,16 +1,16 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
 	"io/ioutil"
 	"log"
 	"os"
 	"strings"
 
-	"golang.org/x/oauth2"
-
 	"github.com/codegangsta/cli"
 	"github.com/google/go-github/github"
+	"golang.org/x/oauth2"
 )
 
 var createCommand = cli.Command{
@@ -38,10 +38,11 @@ func doCreateCommand(c *cli.Context) {
 	tc := oauth2.NewClient(oauth2.NoContext, ts)
 	client := github.NewClient(tc)
 
+	ctx := context.TODO()
 	for _, repoSpec := range c.Args() {
 		repo := strings.SplitN(repoSpec, "/", 2)
 		for _, l := range labels {
-			_, _, err := client.Issues.CreateLabel(repo[0], repo[1], l)
+			_, _, err := client.Issues.CreateLabel(ctx, repo[0], repo[1], l)
 			if err != nil {
 				log.Fatalf("Error creating label %q: %v", *l.Name, err)
 			}
